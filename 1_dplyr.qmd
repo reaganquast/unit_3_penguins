@@ -21,7 +21,7 @@ install.packages(), library(), as.data.frame(), filter(), arrange(), select(), r
 
 Now that we have been through the slog of learning to program in R using techniques and functions in the base R package, it's time to explore the set of packages in the `Tidyverse` that make coding more efficient, easier to write and read, and produces great visualizations. Developed by RStudio / Positron’s chief scientist Hadley Wickham, the `Tidyverse` provides a well-documented workflow for general data modeling, wrangling, and visualization tasks. 
 
-To get the `Tidverse` packages up and running in your R script or your RMarkdown document, you must first install the `Tidyverse` package. Recall that you can do this from the command line or at the top of your R script with the command:
+To get the `Tidverse` packages up and running in your R script or your Quarto document, you must first install the `Tidyverse` package. Recall that you can do this from the command line or at the top of your R script with the command:
 
 ```{r}
 #| eval: false
